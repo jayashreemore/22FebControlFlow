@@ -26,7 +26,7 @@
 //     console.log('Access denied to the Website')
 // }
 
-let number = 50;
+/*let number = 50;
 if (number> 0) {
     console.log('This number is Positive');
     if (number >= 100) {
@@ -39,3 +39,19 @@ if (number> 0) {
 
     console.log('This number is Negative');
     }
+
+    let x = 10;
+
+let output = (x > 10) ? "Greater" : "Not greater";
+
+console.log(output);
+
+if (false) {
+
+    console.log('True');
+ 
+ } else {
+ 
+    console.log('False');
+ 
+ }
